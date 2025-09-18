@@ -1,6 +1,7 @@
 📊 Arunita Store Annual Report 2025 – Excel Dashboard
 
 🛍️ **Project Objective**
+
 This Excel dashboard analyzes retail performance data for Arunita Store, focusing on monthly sales, customer demographics, order status, and channel efficiency. The goal is to help the store owner understand customer behavior and drive smarter sales strategies for 2026.
 
 🎯 **Objectives**
@@ -57,5 +58,6 @@ This dashboard empowers retail managers to:
 ✅ **Final Conclusion**
 To boost sales in 2026, Arunita Store should target women aged 30–49 in Maharashtra, Karnataka, and Uttar Pradesh through personalized ads, offers, and coupons—especially on Amazon, Flipkart, and Myntra.
 
-https://github.com/Born01toshine/Arunita-Store-Data-Analysis/blob/main/Store%20Dashboard.png
+
+<img width="1500" height="551" alt="Store Dashboard" src="https://github.com/user-attachments/assets/2bbd0f08-0d03-401d-b059-beb0f2b946b8" />
 
